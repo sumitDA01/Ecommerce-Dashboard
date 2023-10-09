@@ -1,4 +1,4 @@
-# Ecommerce-Dashboard
+# Ecommerce_SQL
 
 In this i have analysized the orders| customers| products| etc.
 
